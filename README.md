@@ -1,5 +1,4 @@
 # Taller Básico GitHub
-# Taller de GitHub - Sesión 1
 
 ## Descripción
 Bienvenidos al taller de GitHub. En este repositorio encontrarás los materiales necesarios para seguir las sesiones, así como la presentación utilizada durante el taller. El objetivo es que, al finalizar, todos tengan un repositorio propio, aprendan los fundamentos de GitHub y puedan aplicar el control de versiones en sus proyectos.
@@ -10,9 +9,16 @@ Bienvenidos al taller de GitHub. En este repositorio encontrarás los materiales
 - **Sesión 3**: Colaboración en GitHub y Herramientas Avanzadas.
 
 ## Materiales
-- [Diapositivas Sesión 1](./Diapositivas/Presentacion_Sesion1.pdf)
-- [Guía de Instalación Git](./Materiales/Guia_Instalacion_Git.pdf)
-- [Ejemplo de Repositorio](./Materiales/Ejemplo_Repositorio)
+- [Documentación de cómo descargar Git](https://git-scm.com/downloads)
+- [¿Qué es Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+- [Microsoft GitHub Foundations Learning Path](https://docs.microsoft.com/en-us/learn/paths/github-fundamentals/)
+- [Cómo hacer un buen README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [Licencia del proyecto](LICENSE) *(en el mismo repositorio)*
+- [Open Source Initiative](https://opensource.org/)
+- [GitHub Certification Paths](https://github.com/education/paths)
+
+## Código de Conducta
+Los que contribuyan e interactúen en este repositorio se comprometen a tratar a los demás de manera respetuosa y a mantenerse en el tema del repositorio.
 
 ## Objetivos de la Sesión
 Al final de la primera sesión, serás capaz de:
@@ -27,5 +33,14 @@ Al final de la primera sesión, serás capaz de:
 
 ---
 
-## ¿Preguntas?
+## Contacto
 Si tienes preguntas durante el taller, no dudes en plantearlas. También puedes abrir un **Issue** en este repositorio para compartir dudas o sugerencias.
+
+- **Correo**: cam.aroca@duocuc.cl
+
+---
+## Licencia
+El uso y distribución de este repositorio se regula según los términos de la licencia MIT
+
+**Nota**: Este taller no está afiliado con Microsoft, sino que es una iniciativa independiente apoyada por iVaras y por CITT de Duoc UC Antonio Varas.
+

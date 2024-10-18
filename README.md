@@ -10,6 +10,7 @@ Bienvenidos al taller de GitHub. En este repositorio encontrarás los materiales
 
 ## Materiales
 - [Documentación de cómo descargar Git](https://git-scm.com/downloads)
+- [Documentación para la instalación de Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [¿Qué es Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [Microsoft GitHub Foundations Learning Path](https://docs.microsoft.com/en-us/learn/paths/github-fundamentals/)
 - [Cómo hacer un buen README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)

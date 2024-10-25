@@ -17,6 +17,8 @@ Bienvenidos al taller de GitHub. En este repositorio encontrarás los materiales
 - [Licencia del proyecto](LICENSE) *(en el mismo repositorio)*
 - [Open Source Initiative](https://opensource.org/)
 - [GitHub Certification Paths](https://github.com/education/paths)
+- [Repositorio Calculadora](https://github.com/Camila-Aroca/calculadora)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ## Código de Conducta
 Los que contribuyan e interactúen en este repositorio se comprometen a tratar a los demás de manera respetuosa y a mantenerse en el tema del repositorio.
